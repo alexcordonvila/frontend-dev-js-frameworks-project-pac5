@@ -1,0 +1,11 @@
+{
+    "name": "20241-pec-3",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "test": "react-scripts test"
+    },
+    "dependencies": {
+        "react-scripts": "^5.0.1"
+    }
+}
